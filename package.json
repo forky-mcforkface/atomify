@@ -37,7 +37,7 @@
     "atomify-css": "^3.2.1",
     "atomify-js": "^4.7.3",
     "browser-sync": "^2.7.1",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "prettify-error": "^0.1.1",
     "st": "^0.5.3",
     "style-format": "0.0.0",
